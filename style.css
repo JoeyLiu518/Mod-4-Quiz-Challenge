@@ -1,0 +1,9 @@
+header{
+    text-align: center;
+}
+main{
+    display:flex;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+}
